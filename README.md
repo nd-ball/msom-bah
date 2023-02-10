@@ -1,4 +1,4 @@
-# Business Analytics in Healthcare: past, Present, and Future Trends
+# Business Analytics in Healthcare: Past, Present, and Future Trends
 
 This repository is for the interactive web application companion to the following paper:
 
@@ -20,6 +20,7 @@ The app does several things:
 ## Access on the Web
 
 https://notredame-mendoza.shinyapps.io/msom-bah/ 
+
 
 ## Questions
 
