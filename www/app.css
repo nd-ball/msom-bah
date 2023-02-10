@@ -1,0 +1,6 @@
+#networkPlot svg {
+  margin: auto;
+  display: block;
+  border: 3px solid black;
+  width: 75%;
+}
