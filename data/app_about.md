@@ -34,6 +34,14 @@ See the instructions tab for more details on how to do so.
 
 Source code for this app is available on <a href="https://github.com/nd-ball/msom-bah" target="_blank">GitHub</a>.
 
+### How to Cite 
+
+If you use this web application for your research, please cite the following paper:
+
+Kaitlin D. Wowak, John P. Lalor, Sriram Somanchi, Corey M. Angst (2023) Business Analytics in Healthcare: Past, Present, and Future Trends. *Manufacturing & Service Operations Management* 0(0).
+https://doi.org/10.1287/msom.2023.1192
+
+
 ### Search Keywords
 
 Click the button below to see the keywords we used for our article search.
